@@ -1,4 +1,4 @@
-# Greetings, Ms Ilkun here/
+# Greetings, Ms Ilkun here!
 ## I am a she/her
 ## Currently studying:
 + Javascript
